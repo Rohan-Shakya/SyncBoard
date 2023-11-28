@@ -56,7 +56,7 @@ const Login = () => {
         <Link href="/" className="w-full flex justify-left items-center">
           <Image src={Logo} alt="SyncBoard Logo" width={50} height={50} />
           <span className="font-semibold dark:text-white text-4xl first-letter:ml-2">
-            Sync-Board.
+            SyncBoard.
           </span>
         </Link>
         <FormDescription className="text-foreground/60">

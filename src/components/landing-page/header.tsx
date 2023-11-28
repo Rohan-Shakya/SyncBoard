@@ -75,7 +75,7 @@ const Header = () => {
           className="font-semibold dark:text-white
         "
         >
-          Sync-Board.
+          SyncBoard.
         </span>
       </Link>
       <NavigationMenu className="hidden md:block">
