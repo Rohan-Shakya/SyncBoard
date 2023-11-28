@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import DashboardSetup from "@/components/dashboard-setup/dashboard-setup";
 import db from "@/lib/supabase/db";
 import { getUserSubscriptionStatus } from "@/lib/supabase/queries";
