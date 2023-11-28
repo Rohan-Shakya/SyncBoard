@@ -1,0 +1,41 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701067939412,
+      "tag": "0000_rare_mesmero",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701069131286,
+      "tag": "0001_numerous_tag",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701092524920,
+      "tag": "0002_lucky_callisto",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1701093235443,
+      "tag": "0003_square_big_bertha",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1701166237157,
+      "tag": "0004_spooky_paper_doll",
+      "breakpoints": true
+    }
+  ]
+}
