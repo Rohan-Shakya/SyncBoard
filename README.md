@@ -1,4 +1,4 @@
-![SyncBoard](https://raw.githubusercontent.com/Rohan-Shakya/SyncBoard/23c270be9d7b621541fbd91428bbecb146aecd6c/public/SyncBoard.svg)
+![SyncBoard](https://raw.githubusercontent.com/Rohan-Shakya/SyncBoard/main/public/SyncBoard.png?token=GHSAT0AAAAAACJYLBD3I7NGJKQ552SK5O6YZLGHF4Q)
 
 SyncBoard is a powerful, real-time collaborative platform designed to streamline teamwork and organization. This platform offers a dynamic workspace that integrates various collaborative features akin to Notion, ensuring seamless synchronization and enhanced productivity for teams.
 
